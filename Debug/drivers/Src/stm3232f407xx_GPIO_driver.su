@@ -1,0 +1,11 @@
+../drivers/Src/stm3232f407xx_GPIO_driver.c:28:6:GPIO_PeriClkControl	16	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:110:6:GPIO_Init	24	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:199:6:GPIO_DeInit	16	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:248:9:GPIO_ReadFromInputPin	16	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:273:10:GPIO_ReadFromInputPort	16	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:297:6:GPIO_WriteToOutputPin	16	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:325:6:GPIO_WriteToOutputPort	16	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:349:6:GPIO_ToggleOutputPin	16	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:374:6:GPIO_IRQConfig	16	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:420:6:GPIO_IRQPriorityConfig	24	static
+../drivers/Src/stm3232f407xx_GPIO_driver.c:447:6:GPIO_IRQHandling	16	static
